@@ -2,7 +2,7 @@ This Project was done for the real-time database for the company called AtliQ Ha
 
 Performed Data Analysis Using MySql, and a standard Tableau practice such as extracting, transforming, and Load (ETL) data using Tableau. 
 Created a Dashboard using a tableau that looks like the following: 
-![image](https://github.com/Yash-Adhiya/Sales_Analysis_Tableau_MySQL/assets/76459878/80da4c2f-f3f8-43b3-9942-c08d8ae91e76)
+![image](https://github.com/Yash-Adhiya/Sales_Analysis_Tableau_MySQL/blob/main/dashboard.png)
 
 
 
