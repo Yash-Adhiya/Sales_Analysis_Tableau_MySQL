@@ -1,9 +1,12 @@
 This Project was done for the real-time database for the company called AtliQ Hardware and for my practice for tableau and SQL for data analysis.  
 
 Performed Data Analysis Using MySql, and a standard Tableau practice such as extracting, transforming, and Load (ETL) data using Tableau. 
-Created a Dashboard using a tableau that looks like the following: 
+Created a Dynamic Dashboard using a tableau that looks like the following: 
 ![image](https://github.com/Yash-Adhiya/Sales_Analysis_Tableau_MySQL/blob/main/dashboard.png)
 
+
+Here is the Database Information from MySQL: 
+![image](https://github.com/Yash-Adhiya/Sales_Analysis_Tableau_MySQL/blob/main/Database_Info.png)
 
 
 Data Analysis Using SQL
